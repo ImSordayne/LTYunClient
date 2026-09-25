@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=LTYunClient
+Name[zh_CN]=蓝天新世界云服务客户端
+Comment=LTYunClient
+Comment[zh_CN]=蓝天新世界云服务客户端
+Exec=LTYunClient
+Icon=LTYunClient
+Terminal=false
+Categories=Network;Utility;
+StartupNotify=true
